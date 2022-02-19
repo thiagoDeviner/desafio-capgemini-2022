@@ -1,2 +1,2 @@
-# desafio-capgemini-2022
+# Desafio Capgemini 2022
 Desafio de programação CAPGEMINI 2022.
