@@ -28,15 +28,19 @@ Este programa é baseado num algoritmo que mostra na tela uma escada de com o ta
 #### Questão 02 - Senha 
 Foi construído um algoritmo que informa qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura. Além disso foi implemetada outras mensagens na saída que diziam quais outras informações eram necessárias para criar uma senha forte. O programa só para de solicitar a senha quando a exigência de senha forte é atendida.
 Para implementar essas exigências foram utilizadas, expressões regulares no tratamento dessas Strings.
-#### Exemplo de Saída do programa:
+#### Exemplo de Entrada do programa:
 ![image](https://user-images.githubusercontent.com/36796432/154860551-42061db6-528e-4c59-8880-0c28a2e851b2.png)
-![image](https://user-images.githubusercontent.com/36796432/154860598-6196fd43-9e84-44e4-b466-014a2b949437.png)
+
+#### Saída:
+![image](https://user-images.githubusercontent.com/36796432/154861353-916b67ef-0e3d-4627-a4bc-81e35f71ecb0.png)
 
 #### Questão 03 - Anagrama
 Através de uma String qualquer inserida pelo usuário, foi desenvolvido um algoritmo que encontra o número de pares de substrings que são anagramas.
 #### Exemplo de Entrada do programa:
 ![image](https://user-images.githubusercontent.com/36796432/154861261-b9633576-69a2-4edc-b86b-89e74f1ed07c.png)
 #### Saída:
-![image](https://user-images.githubusercontent.com/36796432/154861353-916b67ef-0e3d-4627-a4bc-81e35f71ecb0.png)
+![image](https://user-images.githubusercontent.com/36796432/154861421-6358f756-702f-40ba-995f-f8a7353ac01c.png)
+
+
 
 
