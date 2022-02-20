@@ -19,7 +19,9 @@ JDK - Java Development Kit.
  - As classes(programas):
 #### Questão 01 - Escada
 Este programa é baseado num algoritmo que mostra na tela uma escada de com o tamanho de acordo com a entrada do usuário, utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n e a última linha não deve conter nenhum espaço.
-#### Exemplo de Saída do programa:
+#### Exemplo de Entrada:
+![image](https://user-images.githubusercontent.com/36796432/154861113-7dc87d8a-6eda-421b-a585-5e036f352f27.png)
+#### Saída:
 ![image](https://user-images.githubusercontent.com/36796432/154860464-7ecd8548-4681-4fe7-a267-f3c98e779d9b.png)
 
 
