@@ -34,7 +34,9 @@ Para implementar essas exigências foram utilizadas, expressões regulares no tr
 
 #### Questão 03 - Anagrama
 Através de uma String qualquer inserida pelo usuário, foi desenvolvido um algoritmo que encontra o número de pares de substrings que são anagramas.
-#### Exemplo de Saída do programa:
-![image](https://user-images.githubusercontent.com/36796432/154860625-55d30bb3-29af-4278-bb2d-d8550ff63611.png)
-![image](https://user-images.githubusercontent.com/36796432/154860642-9dd959ba-2d74-4737-aa7a-9a495ac93e8f.png)
+#### Exemplo de Entrada do programa:
+![image](https://user-images.githubusercontent.com/36796432/154861261-b9633576-69a2-4edc-b86b-89e74f1ed07c.png)
+#### Saída:
+![image](https://user-images.githubusercontent.com/36796432/154861353-916b67ef-0e3d-4627-a4bc-81e35f71ecb0.png)
+
 
